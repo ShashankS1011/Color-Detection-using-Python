@@ -1,2 +1,2 @@
 # Colors
-Colors dataset for Data Science project Color Detection
+Color detection using Python
