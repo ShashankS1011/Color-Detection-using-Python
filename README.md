@@ -20,3 +20,7 @@ You can install the required libraries using pip:
 
 Use this command to run the program:
 **python color_detection.py -i "Image path"**.
+
+## Usage
+- The dataset folder contains the dataset and some sample images to work on.
+- Code folder contains the python file.
