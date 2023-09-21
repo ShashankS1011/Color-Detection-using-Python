@@ -14,6 +14,6 @@ Before using the code in this repository, ensure that you have the following pre
 - Python 3.6+
 - OpenCV (cv2) library
 - NumPy library
-- 
+  
 You can install the required libraries using pip:
 - "pip install opencv-python numpy"
