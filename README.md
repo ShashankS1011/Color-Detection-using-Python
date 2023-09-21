@@ -17,3 +17,6 @@ Before using the code in this repository, ensure that you have the following pre
   
 You can install the required libraries using pip:
 - "pip install opencv-python numpy"
+
+Use this command to run the program:
+**python color_detection.py -i "Image path"**.
