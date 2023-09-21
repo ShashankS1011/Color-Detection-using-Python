@@ -24,3 +24,4 @@ Use this command to run the program:
 ## Usage
 - The dataset folder contains the dataset and some sample images to work on.
 - Code folder contains the python file.
+- Model folder contains the Random Forest impplementation on the data.
